@@ -29,7 +29,6 @@ def download_image(bucket_name, key):
     return response['Body'].read()
 
 def lambda_handler(event, context):
-    # TODO implement
     print(event)
     try:
         
