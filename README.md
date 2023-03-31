@@ -11,4 +11,4 @@ A repository for `aws lambda` based projects
 
 2.  ADD ebs snapshot project
 3.  Add EC2 on off project
-3.  Add event driven project to resize image
+4.  ~Add event driven project to resize image~
