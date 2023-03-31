@@ -9,6 +9,6 @@ A repository for `aws lambda` based projects
 - Create Layer
 - Create Demo-function to showcase
 
-2.  ADD ebs snapshot project
-3.  Add EC2 on off project
+2.  ~ADD ebs snapshot project~
+3.  ~Add EC2 on off project~
 4.  ~Add event driven project to resize image~
